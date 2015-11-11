@@ -26,4 +26,4 @@ Log Evohome temperature and host graph on own site
 
 That's it. Have fun!
 
-TIP: You can click on the names in the graph, then you can see them different graph apart
+TIP: You can click on the names in the graph, then you can see the different graphs separately
