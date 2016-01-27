@@ -15,7 +15,7 @@ Log Evohome temperature and host graph on own site
       - line 12: evohome username and password
       - line 14: database information
       - line 22 to ...: fill in correct room names, you can add more rooms if you want (also add them on line 32)
-      - line 32: correct room names
+      - line 32: correct room names and table name (rename EvohomeTemperatures to the correct name in your SQL server)
     - index.html
       - line 19: correct http adress for DataLoader.php
       - line 39 to ...: fill in correct room names (title and valueField), also add the rooms here and choose different color (lineColor)
